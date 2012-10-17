@@ -1,19 +1,6 @@
 /**
- * ADOBE SYSTEMS INCORPORATED
- * Copyright 2008-2011 Adobe Systems Incorporated
- * All Rights Reserved.
- *
- * NOTICE: Adobe permits you to use, modify, and distribute this file
- * in accordance with the terms of the license agreement accompanying it.
- * 
- * Author: Jozsef Vass
- * 
- * Protocol description. This is a very simple protocol for user registration 
- * (or unregistration) and lookup.
  * 
  * For registration, client sends following query string to web-service:
- * 
- * GET cgi-bin/reg.cgi?username=user&identity=peer_id_of_user
  * 
  * Server should respond 200 OK with message body:
  * <?xml version="1.0" encoding="utf-8"?>
@@ -21,17 +8,8 @@
  *   <update>true</update>
  * </result>
  * 
- * For unregistration, client sends following request:
- * 
- * GET cgi-bin/reg.cgi?username=user&identity=0 HTTP/1.1
- * 
- * Server response is same as for registration. Registration is refreshed 
- * every 30 minutes.
- * 
  * For user lookup, client sends following request (to avoid caching,
  * request is randomized using time, etc.):
- * 
- * GET cgi-bin/reg.cgi?friends=remote_user HTTP/1.1
  * 
  * If remote user is available, server responds 200 OK with following message body:
  * 
