@@ -1,6 +1,6 @@
 # Video Chat Application
 
-A full video chat widget that can be setup modified & changed to plug and play into your website or app.
+I've put together a full videochat widget that can be setup modified & changed to plug and play into your website or app.
 The Video Component enables peer assisted networking using the Real Time Media Flow Protocol (RTMFP) within the Adobe Flash® Platform.
 
 ## Requirements
@@ -29,3 +29,10 @@ CREATE TABLE IF NOT EXISTS `registrations` (
 
 * edit the database details under bin-debug/reg.php
 * Run the application from two different browsers. 
+
+Any problems feel free to contact me.
+
+https://www.facebook.com/TheEddyFerreira
+https://twitter.com/MyNameIsEddyF
+
+Enjoy!
