@@ -1,21 +1,21 @@
 # Video Chat Application
 
-A Video-Chat widget that can be setup modified & adapted to work on your website or app.
+A Flash Video-Chat widget that can be setup on your website or app, effortlessly.
 The Video Component enables peer assisted networking using the Real Time Media Flow Protocol (RTMFP) within the Adobe Flash® Platform.
 
 ## Requirements
 
-1. PHP
-2. MYSQL
-2. FLASH/FLEX EDITOR OF YOUR CHOUCE(I strongly suggest Flash Builder)
-3. WEB SERVER
+* PHP
+* MYSQL
+* FLASH/FLEX EDITOR OF YOUR CHOUCE(I strongly suggest Flash Builder)
+* WEB SERVER
 
 ## Installation
 
-* go to http://labs.adobe.com/technologies/cirrus/  and sign up for a developer key
-* Specify your developer key in DeveloperKey constant in VideoChatByEddyF.mxml
-* Specify the URL of your web service in WebServiceUrl constant in VideoChatByEddyF.mxml
-* Create a database and the registration table 
+1. go to http://labs.adobe.com/technologies/cirrus/  and sign up for a developer key
+2. Specify your developer key in DeveloperKey constant in VideoChatByEddyF.mxml
+3. Specify the URL of your web service in WebServiceUrl constant in VideoChatByEddyF.mxml
+4. Create a database and the registration table (Run the script bellow)
 
 CREATE TABLE IF NOT EXISTS `registrations` (
   `id` BIGINT(20) NOT NULL AUTO_INCREMENT,
@@ -27,8 +27,8 @@ CREATE TABLE IF NOT EXISTS `registrations` (
   KEY `updated` (`updated`)
 ) ENGINE=MyISAM  DEFAULT CHARSET=latin1;
 
-* edit the database details under bin-debug/reg.php
-* Run the application from two different browsers. 
+5. edit the database details under bin-debug/reg.php (make sure to compile the component once this step is done)
+6. Run the application from two different browsers. 
 
 Any problems feel free to contact me.
 
