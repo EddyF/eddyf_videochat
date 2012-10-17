@@ -32,7 +32,6 @@ CREATE TABLE IF NOT EXISTS `registrations` (
 
 Any problems feel free to contact me.
 
-https://www.facebook.com/TheEddyFerreira
-https://twitter.com/MyNameIsEddyF
+https://www.facebook.com/TheEddyFerreira & https://twitter.com/MyNameIsEddyF
 
 Enjoy!
