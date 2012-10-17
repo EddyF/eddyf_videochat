@@ -1,0 +1,918 @@
+Time: October 17th 2012, 07:39PM IP: :  Browser:  | Array
+(
+    [username] => aa
+    [identity] => acdc758f461bfcfa8153e24e791d9a6c9a76f7716def47623f25c07557a84ba2
+    [PHPSESSID] => d2c310521c9b6b5dcaf440aa4d905e63
+    [ci_session] => a:10:{s:10:\"session_id\";s:32:\"828fde566ca46bb89235b23118da7945\";s:10:\"ip_address\";s:9:\"127.0.0.1\";s:10:\"user_agent\";s:117:\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4\";s:13:\"last_activity\";i:1350493981;s:9:\"user_data\";s:0:\"\";s:7:\"user_id\";s:2:\"31\";s:8:\"username\";s:5:\"eddyf\";s:6:\"status\";s:1:\"1\";s:12:\"access_token\";s:50:\"63555589-P6uio6ceX2OjxhwV6lTWLkApZlfjg1NLYBSbGeX0Y\";s:19:\"access_token_secret\";s:43:\"FoYhlNiI6staZqD0yIIYm5zNMAxA5hgJaUOJYgUKsXw\";}73b9769babdf1503443efef0c2b53f55
+    [SQLiteManager_currentLangue] => 2
+)
+Time: October 17th 2012, 07:39PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='aa'Time: October 17th 2012, 07:39PM IP: :  Browser:  | INSERT INTO registrations (appid, username, identity, updated) VALUES ( 0, 'aa', 'acdc758f461bfcfa8153e24e791d9a6c9a76f7716def47623f25c07557a84ba2', NOW())Time: October 17th 2012, 07:39PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <update>true</update>
+</result>Time: October 17th 2012, 07:39PM IP: :  Browser:  | Array
+(
+    [username] => aaa
+    [identity] => ec4953f2447437ddfbb98dd118523fe34171e1fb925ad8812ae9f380fb57506e
+    [PHPSESSID] => d2c310521c9b6b5dcaf440aa4d905e63
+    [ci_session] => a:10:{s:10:\"session_id\";s:32:\"828fde566ca46bb89235b23118da7945\";s:10:\"ip_address\";s:9:\"127.0.0.1\";s:10:\"user_agent\";s:117:\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4\";s:13:\"last_activity\";i:1350493981;s:9:\"user_data\";s:0:\"\";s:7:\"user_id\";s:2:\"31\";s:8:\"username\";s:5:\"eddyf\";s:6:\"status\";s:1:\"1\";s:12:\"access_token\";s:50:\"63555589-P6uio6ceX2OjxhwV6lTWLkApZlfjg1NLYBSbGeX0Y\";s:19:\"access_token_secret\";s:43:\"FoYhlNiI6staZqD0yIIYm5zNMAxA5hgJaUOJYgUKsXw\";}73b9769babdf1503443efef0c2b53f55
+    [SQLiteManager_currentLangue] => 2
+)
+Time: October 17th 2012, 07:39PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='aaa'Time: October 17th 2012, 07:39PM IP: :  Browser:  | INSERT INTO registrations (appid, username, identity, updated) VALUES ( 0, 'aaa', 'ec4953f2447437ddfbb98dd118523fe34171e1fb925ad8812ae9f380fb57506e', NOW())Time: October 17th 2012, 07:39PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <update>true</update>
+</result>Time: October 17th 2012, 07:39PM IP: :  Browser:  | Array
+(
+    [friends] => aa
+    [time] => 1350499162493
+    [PHPSESSID] => d2c310521c9b6b5dcaf440aa4d905e63
+    [ci_session] => a:10:{s:10:\"session_id\";s:32:\"828fde566ca46bb89235b23118da7945\";s:10:\"ip_address\";s:9:\"127.0.0.1\";s:10:\"user_agent\";s:117:\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4\";s:13:\"last_activity\";i:1350493981;s:9:\"user_data\";s:0:\"\";s:7:\"user_id\";s:2:\"31\";s:8:\"username\";s:5:\"eddyf\";s:6:\"status\";s:1:\"1\";s:12:\"access_token\";s:50:\"63555589-P6uio6ceX2OjxhwV6lTWLkApZlfjg1NLYBSbGeX0Y\";s:19:\"access_token_secret\";s:43:\"FoYhlNiI6staZqD0yIIYm5zNMAxA5hgJaUOJYgUKsXw\";}73b9769babdf1503443efef0c2b53f55
+    [SQLiteManager_currentLangue] => 2
+)
+Time: October 17th 2012, 07:39PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='aa'Time: October 17th 2012, 07:39PM IP: :  Browser:  | Array
+(
+    [username] => aaa
+    [identity] => 0
+    [PHPSESSID] => d2c310521c9b6b5dcaf440aa4d905e63
+    [ci_session] => a:10:{s:10:\"session_id\";s:32:\"828fde566ca46bb89235b23118da7945\";s:10:\"ip_address\";s:9:\"127.0.0.1\";s:10:\"user_agent\";s:117:\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4\";s:13:\"last_activity\";i:1350493981;s:9:\"user_data\";s:0:\"\";s:7:\"user_id\";s:2:\"31\";s:8:\"username\";s:5:\"eddyf\";s:6:\"status\";s:1:\"1\";s:12:\"access_token\";s:50:\"63555589-P6uio6ceX2OjxhwV6lTWLkApZlfjg1NLYBSbGeX0Y\";s:19:\"access_token_secret\";s:43:\"FoYhlNiI6staZqD0yIIYm5zNMAxA5hgJaUOJYgUKsXw\";}73b9769babdf1503443efef0c2b53f55
+    [SQLiteManager_currentLangue] => 2
+)
+Time: October 17th 2012, 07:39PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='aaa'Time: October 17th 2012, 07:39PM IP: :  Browser:  | INSERT INTO registrations (appid, username, identity, updated) VALUES ( 0, 'aaa', '0', NOW())Time: October 17th 2012, 07:39PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <update>true</update>
+</result>Time: October 17th 2012, 07:47PM IP: :  Browser:  | Array
+(
+    [username] => aaa
+    [identity] => 078f481727b671909e6e6f79f362ba2cdf172b57cf82c5f37ef633c99255616b
+)
+Time: October 17th 2012, 07:47PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='aaa'Time: October 17th 2012, 07:47PM IP: :  Browser:  | INSERT INTO registrations (appid, username, identity, updated) VALUES ( 0, 'aaa', '078f481727b671909e6e6f79f362ba2cdf172b57cf82c5f37ef633c99255616b', NOW())Time: October 17th 2012, 07:47PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <update>true</update>
+</result>Time: October 17th 2012, 07:47PM IP: :  Browser:  | Array
+(
+    [username] => aaaa
+    [identity] => 39aa2351f2705e99324744ea1b6ae4dbc7f54d1573a4e52e6f5247545d687b9e
+)
+Time: October 17th 2012, 07:47PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='aaaa'Time: October 17th 2012, 07:47PM IP: :  Browser:  | INSERT INTO registrations (appid, username, identity, updated) VALUES ( 0, 'aaaa', '39aa2351f2705e99324744ea1b6ae4dbc7f54d1573a4e52e6f5247545d687b9e', NOW())Time: October 17th 2012, 07:47PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <update>true</update>
+</result>Time: October 17th 2012, 07:47PM IP: :  Browser:  | Array
+(
+    [time] => 1350499644275
+    [friends] => aaa
+)
+Time: October 17th 2012, 07:47PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='aaa'Time: October 17th 2012, 07:47PM IP: :  Browser:  | Array
+(
+    [username] => aaaa
+    [identity] => 0
+)
+Time: October 17th 2012, 07:47PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='aaaa'Time: October 17th 2012, 07:47PM IP: :  Browser:  | INSERT INTO registrations (appid, username, identity, updated) VALUES ( 0, 'aaaa', '0', NOW())Time: October 17th 2012, 07:47PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <update>true</update>
+</result>Time: October 17th 2012, 07:47PM IP: :  Browser:  | Array
+(
+    [username] => aaaa
+    [identity] => 083e95074380238e47289802780db70be4a7b32c83d167866a2593077385fd38
+)
+Time: October 17th 2012, 07:47PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='aaaa'Time: October 17th 2012, 07:47PM IP: :  Browser:  | INSERT INTO registrations (appid, username, identity, updated) VALUES ( 0, 'aaaa', '083e95074380238e47289802780db70be4a7b32c83d167866a2593077385fd38', NOW())Time: October 17th 2012, 07:47PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <update>true</update>
+</result>Time: October 17th 2012, 07:47PM IP: :  Browser:  | Array
+(
+    [time] => 1350499674683
+    [friends] => a
+)
+Time: October 17th 2012, 07:47PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='a'Time: October 17th 2012, 07:47PM IP: :  Browser:  | Array
+(
+    [username] => aaaa
+    [identity] => 0
+)
+Time: October 17th 2012, 07:47PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='aaaa'Time: October 17th 2012, 07:47PM IP: :  Browser:  | INSERT INTO registrations (appid, username, identity, updated) VALUES ( 0, 'aaaa', '0', NOW())Time: October 17th 2012, 07:47PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <update>true</update>
+</result>Time: October 17th 2012, 07:47PM IP: :  Browser:  | Array
+(
+    [username] => aaaa
+    [identity] => dd00f07577209fdbbf3208fd6e8772dd092612a82a001883d6f535e32825da63
+)
+Time: October 17th 2012, 07:47PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='aaaa'Time: October 17th 2012, 07:47PM IP: :  Browser:  | INSERT INTO registrations (appid, username, identity, updated) VALUES ( 0, 'aaaa', 'dd00f07577209fdbbf3208fd6e8772dd092612a82a001883d6f535e32825da63', NOW())Time: October 17th 2012, 07:47PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <update>true</update>
+</result>Time: October 17th 2012, 07:47PM IP: :  Browser:  | Array
+(
+    [username] => a
+    [identity] => c2a91579867452654d6194a445fea0315a46539ef2460c34a1a1a6e9bbb10f1f
+    [PHPSESSID] => d2c310521c9b6b5dcaf440aa4d905e63
+    [ci_session] => a:10:{s:10:\"session_id\";s:32:\"828fde566ca46bb89235b23118da7945\";s:10:\"ip_address\";s:9:\"127.0.0.1\";s:10:\"user_agent\";s:117:\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4\";s:13:\"last_activity\";i:1350493981;s:9:\"user_data\";s:0:\"\";s:7:\"user_id\";s:2:\"31\";s:8:\"username\";s:5:\"eddyf\";s:6:\"status\";s:1:\"1\";s:12:\"access_token\";s:50:\"63555589-P6uio6ceX2OjxhwV6lTWLkApZlfjg1NLYBSbGeX0Y\";s:19:\"access_token_secret\";s:43:\"FoYhlNiI6staZqD0yIIYm5zNMAxA5hgJaUOJYgUKsXw\";}73b9769babdf1503443efef0c2b53f55
+    [SQLiteManager_currentLangue] => 2
+)
+Time: October 17th 2012, 07:47PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='a'Time: October 17th 2012, 07:47PM IP: :  Browser:  | INSERT INTO registrations (appid, username, identity, updated) VALUES ( 0, 'a', 'c2a91579867452654d6194a445fea0315a46539ef2460c34a1a1a6e9bbb10f1f', NOW())Time: October 17th 2012, 07:47PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <update>true</update>
+</result>Time: October 17th 2012, 07:48PM IP: :  Browser:  | Array
+(
+    [time] => 1350499681585
+    [friends] => a
+)
+Time: October 17th 2012, 07:48PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='a'Time: October 17th 2012, 07:48PM IP: :  Browser:  | Array
+(
+    [username] => aaaa
+    [identity] => 0
+)
+Time: October 17th 2012, 07:48PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='aaaa'Time: October 17th 2012, 07:48PM IP: :  Browser:  | INSERT INTO registrations (appid, username, identity, updated) VALUES ( 0, 'aaaa', '0', NOW())Time: October 17th 2012, 07:48PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <update>true</update>
+</result>Time: October 17th 2012, 07:48PM IP: :  Browser:  | Array
+(
+    [username] => a
+    [identity] => 55c21c0554808003dc91b6dea04c1aedb8202fe5e09e82d4008c5596afa9d5f7
+    [PHPSESSID] => d2c310521c9b6b5dcaf440aa4d905e63
+    [ci_session] => a:10:{s:10:\"session_id\";s:32:\"828fde566ca46bb89235b23118da7945\";s:10:\"ip_address\";s:9:\"127.0.0.1\";s:10:\"user_agent\";s:117:\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4\";s:13:\"last_activity\";i:1350493981;s:9:\"user_data\";s:0:\"\";s:7:\"user_id\";s:2:\"31\";s:8:\"username\";s:5:\"eddyf\";s:6:\"status\";s:1:\"1\";s:12:\"access_token\";s:50:\"63555589-P6uio6ceX2OjxhwV6lTWLkApZlfjg1NLYBSbGeX0Y\";s:19:\"access_token_secret\";s:43:\"FoYhlNiI6staZqD0yIIYm5zNMAxA5hgJaUOJYgUKsXw\";}73b9769babdf1503443efef0c2b53f55
+    [SQLiteManager_currentLangue] => 2
+)
+Time: October 17th 2012, 07:48PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='a'Time: October 17th 2012, 07:48PM IP: :  Browser:  | INSERT INTO registrations (appid, username, identity, updated) VALUES ( 0, 'a', '55c21c0554808003dc91b6dea04c1aedb8202fe5e09e82d4008c5596afa9d5f7', NOW())Time: October 17th 2012, 07:48PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <update>true</update>
+</result>Time: October 17th 2012, 07:48PM IP: :  Browser:  | Array
+(
+    [username] => aaaa
+    [identity] => 0729581f096b342d57fb00e253bb1c2c1d702ab1d0519925f24c07331150fc65
+)
+Time: October 17th 2012, 07:48PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='aaaa'Time: October 17th 2012, 07:48PM IP: :  Browser:  | INSERT INTO registrations (appid, username, identity, updated) VALUES ( 0, 'aaaa', '0729581f096b342d57fb00e253bb1c2c1d702ab1d0519925f24c07331150fc65', NOW())Time: October 17th 2012, 07:48PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <update>true</update>
+</result>Time: October 17th 2012, 07:48PM IP: :  Browser:  | Array
+(
+    [time] => 1350499719074
+    [friends] => a
+)
+Time: October 17th 2012, 07:48PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='a'Time: October 17th 2012, 07:48PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <friend>
+    <user>a</user>
+    <identity>55c21c0554808003dc91b6dea04c1aedb8202fe5e09e82d4008c5596afa9d5f7</identity>
+  </friend>
+</result>Time: October 17th 2012, 07:49PM IP: :  Browser:  | Array
+(
+    [time] => 1350499746909
+    [friends] => a
+)
+Time: October 17th 2012, 07:49PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='a'Time: October 17th 2012, 07:49PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <friend>
+    <user>a</user>
+    <identity>55c21c0554808003dc91b6dea04c1aedb8202fe5e09e82d4008c5596afa9d5f7</identity>
+  </friend>
+</result>Time: October 17th 2012, 07:54PM IP: :  Browser:  | Array
+(
+    [username] => a
+    [identity] => a305804b9aabf3213b1bc030009a95ea16bc46628134bc52eb12ef25565aaa45
+    [PHPSESSID] => d2c310521c9b6b5dcaf440aa4d905e63
+    [ci_session] => a:10:{s:10:\"session_id\";s:32:\"828fde566ca46bb89235b23118da7945\";s:10:\"ip_address\";s:9:\"127.0.0.1\";s:10:\"user_agent\";s:117:\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4\";s:13:\"last_activity\";i:1350493981;s:9:\"user_data\";s:0:\"\";s:7:\"user_id\";s:2:\"31\";s:8:\"username\";s:5:\"eddyf\";s:6:\"status\";s:1:\"1\";s:12:\"access_token\";s:50:\"63555589-P6uio6ceX2OjxhwV6lTWLkApZlfjg1NLYBSbGeX0Y\";s:19:\"access_token_secret\";s:43:\"FoYhlNiI6staZqD0yIIYm5zNMAxA5hgJaUOJYgUKsXw\";}73b9769babdf1503443efef0c2b53f55
+    [SQLiteManager_currentLangue] => 2
+)
+Time: October 17th 2012, 07:54PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='a'Time: October 17th 2012, 07:54PM IP: :  Browser:  | UPDATE registrations SET updated = NOW(), identity = 'a305804b9aabf3213b1bc030009a95ea16bc46628134bc52eb12ef25565aaa45' WHERE username = 'a'Time: October 17th 2012, 07:54PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <update>true</update>
+</result>Time: October 17th 2012, 07:55PM IP: :  Browser:  | Array
+(
+    [identity] => dc0f555191238abbe65af9f8dca6cc4f4586ffe4665f6efaef34ce70a71a7258
+    [username] => b
+    [PHPSESSID] => d2c310521c9b6b5dcaf440aa4d905e63
+    [ci_session] => a:10:{s:10:\"session_id\";s:32:\"828fde566ca46bb89235b23118da7945\";s:10:\"ip_address\";s:9:\"127.0.0.1\";s:10:\"user_agent\";s:117:\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4\";s:13:\"last_activity\";i:1350493981;s:9:\"user_data\";s:0:\"\";s:7:\"user_id\";s:2:\"31\";s:8:\"username\";s:5:\"eddyf\";s:6:\"status\";s:1:\"1\";s:12:\"access_token\";s:50:\"63555589-P6uio6ceX2OjxhwV6lTWLkApZlfjg1NLYBSbGeX0Y\";s:19:\"access_token_secret\";s:43:\"FoYhlNiI6staZqD0yIIYm5zNMAxA5hgJaUOJYgUKsXw\";}73b9769babdf1503443efef0c2b53f55
+    [SQLiteManager_currentLangue] => 2
+)
+Time: October 17th 2012, 07:55PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='b'Time: October 17th 2012, 07:55PM IP: :  Browser:  | INSERT INTO registrations (appid, username, identity, updated) VALUES ( 0, 'b', 'dc0f555191238abbe65af9f8dca6cc4f4586ffe4665f6efaef34ce70a71a7258', NOW())Time: October 17th 2012, 07:55PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <update>true</update>
+</result>Time: October 17th 2012, 07:55PM IP: :  Browser:  | Array
+(
+    [friends] => a
+    [time] => 1350500109143
+    [PHPSESSID] => d2c310521c9b6b5dcaf440aa4d905e63
+    [ci_session] => a:10:{s:10:\"session_id\";s:32:\"828fde566ca46bb89235b23118da7945\";s:10:\"ip_address\";s:9:\"127.0.0.1\";s:10:\"user_agent\";s:117:\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4\";s:13:\"last_activity\";i:1350493981;s:9:\"user_data\";s:0:\"\";s:7:\"user_id\";s:2:\"31\";s:8:\"username\";s:5:\"eddyf\";s:6:\"status\";s:1:\"1\";s:12:\"access_token\";s:50:\"63555589-P6uio6ceX2OjxhwV6lTWLkApZlfjg1NLYBSbGeX0Y\";s:19:\"access_token_secret\";s:43:\"FoYhlNiI6staZqD0yIIYm5zNMAxA5hgJaUOJYgUKsXw\";}73b9769babdf1503443efef0c2b53f55
+    [SQLiteManager_currentLangue] => 2
+)
+Time: October 17th 2012, 07:55PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='a'Time: October 17th 2012, 07:55PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <friend>
+    <user>a</user>
+    <identity>a305804b9aabf3213b1bc030009a95ea16bc46628134bc52eb12ef25565aaa45</identity>
+  </friend>
+</result>Time: October 17th 2012, 07:55PM IP: :  Browser:  | Array
+(
+    [username] => b
+    [identity] => 3a50bfb531f2dcf06db2e090fce6d009fd42e3187694b9bc8a446c88e14fd78c
+)
+Time: October 17th 2012, 07:55PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='b'Time: October 17th 2012, 07:55PM IP: :  Browser:  | UPDATE registrations SET updated = NOW(), identity = '3a50bfb531f2dcf06db2e090fce6d009fd42e3187694b9bc8a446c88e14fd78c' WHERE username = 'b'Time: October 17th 2012, 07:55PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <update>true</update>
+</result>Time: October 17th 2012, 07:55PM IP: :  Browser:  | Array
+(
+    [time] => 1350500142868
+    [friends] => a
+)
+Time: October 17th 2012, 07:55PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='a'Time: October 17th 2012, 07:55PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <friend>
+    <user>a</user>
+    <identity>a305804b9aabf3213b1bc030009a95ea16bc46628134bc52eb12ef25565aaa45</identity>
+  </friend>
+</result>Time: October 17th 2012, 07:55PM IP: :  Browser:  | Array
+(
+    [username] => a
+    [identity] => 678b29af73cebba3a5a5b6b96f78c5a4c1f929b6372fd7a013050f48f6b961fe
+    [PHPSESSID] => d2c310521c9b6b5dcaf440aa4d905e63
+    [ci_session] => a:10:{s:10:\"session_id\";s:32:\"828fde566ca46bb89235b23118da7945\";s:10:\"ip_address\";s:9:\"127.0.0.1\";s:10:\"user_agent\";s:117:\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4\";s:13:\"last_activity\";i:1350493981;s:9:\"user_data\";s:0:\"\";s:7:\"user_id\";s:2:\"31\";s:8:\"username\";s:5:\"eddyf\";s:6:\"status\";s:1:\"1\";s:12:\"access_token\";s:50:\"63555589-P6uio6ceX2OjxhwV6lTWLkApZlfjg1NLYBSbGeX0Y\";s:19:\"access_token_secret\";s:43:\"FoYhlNiI6staZqD0yIIYm5zNMAxA5hgJaUOJYgUKsXw\";}73b9769babdf1503443efef0c2b53f55
+    [SQLiteManager_currentLangue] => 2
+)
+Time: October 17th 2012, 07:55PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='a'Time: October 17th 2012, 07:55PM IP: :  Browser:  | UPDATE registrations SET updated = NOW(), identity = '678b29af73cebba3a5a5b6b96f78c5a4c1f929b6372fd7a013050f48f6b961fe' WHERE username = 'a'Time: October 17th 2012, 07:55PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <update>true</update>
+</result>Time: October 17th 2012, 07:55PM IP: :  Browser:  | Array
+(
+    [friends] => b
+    [time] => 1350500152639
+    [PHPSESSID] => d2c310521c9b6b5dcaf440aa4d905e63
+    [ci_session] => a:10:{s:10:\"session_id\";s:32:\"828fde566ca46bb89235b23118da7945\";s:10:\"ip_address\";s:9:\"127.0.0.1\";s:10:\"user_agent\";s:117:\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4\";s:13:\"last_activity\";i:1350493981;s:9:\"user_data\";s:0:\"\";s:7:\"user_id\";s:2:\"31\";s:8:\"username\";s:5:\"eddyf\";s:6:\"status\";s:1:\"1\";s:12:\"access_token\";s:50:\"63555589-P6uio6ceX2OjxhwV6lTWLkApZlfjg1NLYBSbGeX0Y\";s:19:\"access_token_secret\";s:43:\"FoYhlNiI6staZqD0yIIYm5zNMAxA5hgJaUOJYgUKsXw\";}73b9769babdf1503443efef0c2b53f55
+    [SQLiteManager_currentLangue] => 2
+)
+Time: October 17th 2012, 07:55PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='b'Time: October 17th 2012, 07:55PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <friend>
+    <user>b</user>
+    <identity>3a50bfb531f2dcf06db2e090fce6d009fd42e3187694b9bc8a446c88e14fd78c</identity>
+  </friend>
+</result>Time: October 17th 2012, 07:57PM IP: :  Browser:  | Array
+(
+    [username] => a
+    [identity] => 30eaee01ccf35f7f3e5b635c6989b6cd5ef744556dacf3025d2d57a7e2847b07
+)
+Time: October 17th 2012, 07:57PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='a'Time: October 17th 2012, 07:57PM IP: :  Browser:  | UPDATE registrations SET updated = NOW(), identity = '30eaee01ccf35f7f3e5b635c6989b6cd5ef744556dacf3025d2d57a7e2847b07' WHERE username = 'a'Time: October 17th 2012, 07:57PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <update>true</update>
+</result>Time: October 17th 2012, 07:57PM IP: :  Browser:  | Array
+(
+    [username] => b
+    [identity] => 8e625b9756d4f7b612bcaea4f023208f69963e107095f8a77ec935c4233e9931
+)
+Time: October 17th 2012, 07:57PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='b'Time: October 17th 2012, 07:57PM IP: :  Browser:  | UPDATE registrations SET updated = NOW(), identity = '8e625b9756d4f7b612bcaea4f023208f69963e107095f8a77ec935c4233e9931' WHERE username = 'b'Time: October 17th 2012, 07:57PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <update>true</update>
+</result>Time: October 17th 2012, 07:57PM IP: :  Browser:  | Array
+(
+    [time] => 1350500250681
+    [friends] => b
+)
+Time: October 17th 2012, 07:57PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='b'Time: October 17th 2012, 07:57PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <friend>
+    <user>b</user>
+    <identity>8e625b9756d4f7b612bcaea4f023208f69963e107095f8a77ec935c4233e9931</identity>
+  </friend>
+</result>Time: October 17th 2012, 08:06PM IP: :  Browser:  | Array
+(
+    [username] => b
+    [identity] => 463f1d031711f5448d434ac46f7733d6fa749012b9a8c8e188640103b79c938a
+    [SQLiteManager_currentLangue] => 2
+)
+Time: October 17th 2012, 08:06PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='b'Time: October 17th 2012, 08:06PM IP: :  Browser:  | INSERT INTO registrations (appid, username, identity, updated) VALUES ( 0, 'b', '463f1d031711f5448d434ac46f7733d6fa749012b9a8c8e188640103b79c938a', NOW())Time: October 17th 2012, 08:06PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <update>true</update>
+</result>Time: October 17th 2012, 08:07PM IP: :  Browser:  | Array
+(
+    [username] => a
+    [identity] => f100cf73de5298af39b65e718ba66bb5695004beb336b47bc6795d6916f9b253
+    [SQLiteManager_currentLangue] => 2
+)
+Time: October 17th 2012, 08:07PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='a'Time: October 17th 2012, 08:07PM IP: :  Browser:  | INSERT INTO registrations (appid, username, identity, updated) VALUES ( 0, 'a', 'f100cf73de5298af39b65e718ba66bb5695004beb336b47bc6795d6916f9b253', NOW())Time: October 17th 2012, 08:07PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <update>true</update>
+</result>Time: October 17th 2012, 08:07PM IP: :  Browser:  | Array
+(
+    [friends] => b
+    [time] => 1350500825418
+    [SQLiteManager_currentLangue] => 2
+)
+Time: October 17th 2012, 08:07PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='b'Time: October 17th 2012, 08:07PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <friend>
+    <user>b</user>
+    <identity>463f1d031711f5448d434ac46f7733d6fa749012b9a8c8e188640103b79c938a</identity>
+  </friend>
+</result>Time: October 17th 2012, 08:12PM IP: :  Browser:  | Array
+(
+    [identity] => 28f844160d1a04955e957b19548c9245cc19b8f90489fc77558330d50ae75797
+    [username] => a
+    [SQLiteManager_currentLangue] => 2
+)
+Time: October 17th 2012, 08:12PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='a'Time: October 17th 2012, 08:12PM IP: :  Browser:  | UPDATE registrations SET updated = NOW(), identity = '28f844160d1a04955e957b19548c9245cc19b8f90489fc77558330d50ae75797' WHERE username = 'a'Time: October 17th 2012, 08:12PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <update>true</update>
+</result>Time: October 17th 2012, 08:15PM IP: :  Browser:  | Array
+(
+    [username] => a
+    [identity] => db2cb1c7462dac55c01a9d1ca9babedc2733d6721a4333b3540df811d4dafed2
+    [SQLiteManager_currentLangue] => 2
+)
+Time: October 17th 2012, 08:15PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='a'Time: October 17th 2012, 08:15PM IP: :  Browser:  | UPDATE registrations SET updated = NOW(), identity = 'db2cb1c7462dac55c01a9d1ca9babedc2733d6721a4333b3540df811d4dafed2' WHERE username = 'a'Time: October 17th 2012, 08:15PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <update>true</update>
+</result>Time: October 17th 2012, 08:15PM IP: :  Browser:  | Array
+(
+    [username] => c
+    [identity] => 2c265def4ee4a24e87688fdc5ad3511544306ed0b3e4d2e7b05511d8d23fb052
+)
+Time: October 17th 2012, 08:15PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='c'Time: October 17th 2012, 08:15PM IP: :  Browser:  | INSERT INTO registrations (appid, username, identity, updated) VALUES ( 0, 'c', '2c265def4ee4a24e87688fdc5ad3511544306ed0b3e4d2e7b05511d8d23fb052', NOW())Time: October 17th 2012, 08:15PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <update>true</update>
+</result>Time: October 17th 2012, 08:15PM IP: :  Browser:  | Array
+(
+    [time] => 1350501351488
+    [friends] => a
+)
+Time: October 17th 2012, 08:15PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='a'Time: October 17th 2012, 08:15PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <friend>
+    <user>a</user>
+    <identity>db2cb1c7462dac55c01a9d1ca9babedc2733d6721a4333b3540df811d4dafed2</identity>
+  </friend>
+</result>Time: October 17th 2012, 08:19PM IP: :  Browser:  | Array
+(
+    [identity] => dce0c7dfc7156b347b38ad120f1c31735d4a9cd18c7d114a64418f1237c4cc69
+    [username] => c
+    [SQLiteManager_currentLangue] => 2
+)
+Time: October 17th 2012, 08:19PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='c'Time: October 17th 2012, 08:19PM IP: :  Browser:  | UPDATE registrations SET updated = NOW(), identity = 'dce0c7dfc7156b347b38ad120f1c31735d4a9cd18c7d114a64418f1237c4cc69' WHERE username = 'c'Time: October 17th 2012, 08:19PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <update>true</update>
+</result>Time: October 17th 2012, 08:19PM IP: :  Browser:  | Array
+(
+    [username] => a
+    [identity] => b6f30717ee798246bcc15b55a99009f592a598e21e6f7bba98955637d98dadc2
+)
+Time: October 17th 2012, 08:19PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='a'Time: October 17th 2012, 08:19PM IP: :  Browser:  | UPDATE registrations SET updated = NOW(), identity = 'b6f30717ee798246bcc15b55a99009f592a598e21e6f7bba98955637d98dadc2' WHERE username = 'a'Time: October 17th 2012, 08:19PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <update>true</update>
+</result>Time: October 17th 2012, 08:19PM IP: :  Browser:  | Array
+(
+    [time] => 1350501593319
+    [friends] => a
+    [SQLiteManager_currentLangue] => 2
+)
+Time: October 17th 2012, 08:19PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='a'Time: October 17th 2012, 08:19PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <friend>
+    <user>a</user>
+    <identity>b6f30717ee798246bcc15b55a99009f592a598e21e6f7bba98955637d98dadc2</identity>
+  </friend>
+</result>Time: October 17th 2012, 08:21PM IP: :  Browser:  | Array
+(
+    [identity] => 3ad62516983ecee5ef51c3fb6c2b86c302be4840bc0ca07a6cacbc5527e6d490
+    [username] => a
+    [SQLiteManager_currentLangue] => 2
+)
+Time: October 17th 2012, 08:21PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='a'Time: October 17th 2012, 08:21PM IP: :  Browser:  | UPDATE registrations SET updated = NOW(), identity = '3ad62516983ecee5ef51c3fb6c2b86c302be4840bc0ca07a6cacbc5527e6d490' WHERE username = 'a'Time: October 17th 2012, 08:21PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <update>true</update>
+</result>Time: October 17th 2012, 08:31PM IP: :  Browser:  | Array
+(
+    [identity] => 6ef9645c2394b82390dc8e9e24aa9ab5e976ac819eb03fe6539b63c557c9fc23
+    [username] => a
+)
+Time: October 17th 2012, 08:31PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='a'Time: October 17th 2012, 08:31PM IP: :  Browser:  | UPDATE registrations SET updated = NOW(), identity = '6ef9645c2394b82390dc8e9e24aa9ab5e976ac819eb03fe6539b63c557c9fc23' WHERE username = 'a'Time: October 17th 2012, 08:31PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <update>true</update>
+</result>Time: October 17th 2012, 08:31PM IP: :  Browser:  | Array
+(
+    [identity] => d0d14569ad4a30bb80e0d32320e7d9296987e24fcd8990b67cd0311804e3186e
+    [username] => aa
+    [SQLiteManager_currentLangue] => 2
+)
+Time: October 17th 2012, 08:31PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='aa'Time: October 17th 2012, 08:31PM IP: :  Browser:  | INSERT INTO registrations (appid, username, identity, updated) VALUES ( 0, 'aa', 'd0d14569ad4a30bb80e0d32320e7d9296987e24fcd8990b67cd0311804e3186e', NOW())Time: October 17th 2012, 08:31PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <update>true</update>
+</result>Time: October 17th 2012, 08:31PM IP: :  Browser:  | Array
+(
+    [friends] => aa
+    [time] => 1350502303118
+)
+Time: October 17th 2012, 08:31PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='aa'Time: October 17th 2012, 08:31PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <friend>
+    <user>aa</user>
+    <identity>d0d14569ad4a30bb80e0d32320e7d9296987e24fcd8990b67cd0311804e3186e</identity>
+  </friend>
+</result>Time: October 17th 2012, 08:32PM IP: :  Browser:  | Array
+(
+    [identity] => 0
+    [username] => aa
+    [SQLiteManager_currentLangue] => 2
+)
+Time: October 17th 2012, 08:32PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='aa'Time: October 17th 2012, 08:32PM IP: :  Browser:  | UPDATE registrations SET updated = NOW(), identity = '0' WHERE username = 'aa'Time: October 17th 2012, 08:32PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <update>true</update>
+</result>Time: October 17th 2012, 08:32PM IP: :  Browser:  | Array
+(
+    [identity] => 931557853d58091c9e90e3cd5ca1eabfd1ce7e95ecca972ad003e40bdd3bac51
+    [username] => aa
+    [SQLiteManager_currentLangue] => 2
+)
+Time: October 17th 2012, 08:32PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='aa'Time: October 17th 2012, 08:32PM IP: :  Browser:  | UPDATE registrations SET updated = NOW(), identity = '931557853d58091c9e90e3cd5ca1eabfd1ce7e95ecca972ad003e40bdd3bac51' WHERE username = 'aa'Time: October 17th 2012, 08:32PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <update>true</update>
+</result>Time: October 17th 2012, 08:32PM IP: :  Browser:  | Array
+(
+    [identity] => ee5a1322f82fce1c8198a708b11e3b1e243798ba3a84ba99f93ab3fdfaf3b785
+    [username] => aa
+)
+Time: October 17th 2012, 08:32PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='aa'Time: October 17th 2012, 08:32PM IP: :  Browser:  | UPDATE registrations SET updated = NOW(), identity = 'ee5a1322f82fce1c8198a708b11e3b1e243798ba3a84ba99f93ab3fdfaf3b785' WHERE username = 'aa'Time: October 17th 2012, 08:32PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <update>true</update>
+</result>Time: October 17th 2012, 08:32PM IP: :  Browser:  | Array
+(
+    [identity] => 3d3b94f29e35cb858eb6a0b36b97a8136fcfb4a75e2b74400cf7bea48cb64726
+    [username] => cc
+    [SQLiteManager_currentLangue] => 2
+)
+Time: October 17th 2012, 08:32PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='cc'Time: October 17th 2012, 08:32PM IP: :  Browser:  | INSERT INTO registrations (appid, username, identity, updated) VALUES ( 0, 'cc', '3d3b94f29e35cb858eb6a0b36b97a8136fcfb4a75e2b74400cf7bea48cb64726', NOW())Time: October 17th 2012, 08:32PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <update>true</update>
+</result>Time: October 17th 2012, 08:32PM IP: :  Browser:  | Array
+(
+    [friends] => cc
+    [time] => 1350502356728
+)
+Time: October 17th 2012, 08:32PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='cc'Time: October 17th 2012, 08:32PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <friend>
+    <user>cc</user>
+    <identity>3d3b94f29e35cb858eb6a0b36b97a8136fcfb4a75e2b74400cf7bea48cb64726</identity>
+  </friend>
+</result>Time: October 17th 2012, 08:33PM IP: :  Browser:  | Array
+(
+    [username] => cc
+    [identity] => 49b4eafae3cbe2c7df652c2d74cf54e34e39340cac00e46aefc9cfffd73812c1
+    [SQLiteManager_currentLangue] => 2
+)
+Time: October 17th 2012, 08:33PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='cc'Time: October 17th 2012, 08:33PM IP: :  Browser:  | UPDATE registrations SET updated = NOW(), identity = '49b4eafae3cbe2c7df652c2d74cf54e34e39340cac00e46aefc9cfffd73812c1' WHERE username = 'cc'Time: October 17th 2012, 08:33PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <update>true</update>
+</result>Time: October 17th 2012, 08:33PM IP: :  Browser:  | Array
+(
+    [username] => ac
+    [identity] => 458e0544f592a594cb311d2f923fc5d39357ae1d0fd87305cafae20095075b59
+)
+Time: October 17th 2012, 08:33PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='ac'Time: October 17th 2012, 08:33PM IP: :  Browser:  | INSERT INTO registrations (appid, username, identity, updated) VALUES ( 0, 'ac', '458e0544f592a594cb311d2f923fc5d39357ae1d0fd87305cafae20095075b59', NOW())Time: October 17th 2012, 08:33PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <update>true</update>
+</result>Time: October 17th 2012, 08:33PM IP: :  Browser:  | Array
+(
+    [time] => 1350502409257
+    [friends] => ac
+    [SQLiteManager_currentLangue] => 2
+)
+Time: October 17th 2012, 08:33PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='ac'Time: October 17th 2012, 08:33PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <friend>
+    <user>ac</user>
+    <identity>458e0544f592a594cb311d2f923fc5d39357ae1d0fd87305cafae20095075b59</identity>
+  </friend>
+</result>Time: October 17th 2012, 08:39PM IP: :  Browser:  | Array
+(
+    [identity] => f20ffc803aebdafc918d2cd38f9e3d899c8acf55771ab3b4d99d3e63b50de5c3
+    [username] => ac
+    [SQLiteManager_currentLangue] => 2
+)
+Time: October 17th 2012, 08:39PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='ac'Time: October 17th 2012, 08:39PM IP: :  Browser:  | UPDATE registrations SET updated = NOW(), identity = 'f20ffc803aebdafc918d2cd38f9e3d899c8acf55771ab3b4d99d3e63b50de5c3' WHERE username = 'ac'Time: October 17th 2012, 08:39PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <update>true</update>
+</result>Time: October 17th 2012, 08:39PM IP: :  Browser:  | Array
+(
+    [username] => cc
+    [identity] => a886aa8141b501b1708359d99a7fc79cfb8b0ac5ca308f3a3d50513d93ed6a94
+)
+Time: October 17th 2012, 08:39PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='cc'Time: October 17th 2012, 08:39PM IP: :  Browser:  | UPDATE registrations SET updated = NOW(), identity = 'a886aa8141b501b1708359d99a7fc79cfb8b0ac5ca308f3a3d50513d93ed6a94' WHERE username = 'cc'Time: October 17th 2012, 08:39PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <update>true</update>
+</result>Time: October 17th 2012, 08:39PM IP: :  Browser:  | Array
+(
+    [time] => 1350502779578
+    [friends] => ac
+)
+Time: October 17th 2012, 08:39PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='ac'Time: October 17th 2012, 08:39PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <friend>
+    <user>ac</user>
+    <identity>f20ffc803aebdafc918d2cd38f9e3d899c8acf55771ab3b4d99d3e63b50de5c3</identity>
+  </friend>
+</result>Time: October 17th 2012, 08:40PM IP: :  Browser:  | Array
+(
+    [friends] => cc
+    [time] => 1350502801282
+    [SQLiteManager_currentLangue] => 2
+)
+Time: October 17th 2012, 08:40PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='cc'Time: October 17th 2012, 08:40PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <friend>
+    <user>cc</user>
+    <identity>a886aa8141b501b1708359d99a7fc79cfb8b0ac5ca308f3a3d50513d93ed6a94</identity>
+  </friend>
+</result>Time: October 17th 2012, 08:41PM IP: :  Browser:  | Array
+(
+    [username] => cc
+    [identity] => f3a9283e87eeeef0f82e7f2f01a4624fac287d52e0e5677188db3d04d147a37c
+    [SQLiteManager_currentLangue] => 2
+)
+Time: October 17th 2012, 08:41PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='cc'Time: October 17th 2012, 08:41PM IP: :  Browser:  | UPDATE registrations SET updated = NOW(), identity = 'f3a9283e87eeeef0f82e7f2f01a4624fac287d52e0e5677188db3d04d147a37c' WHERE username = 'cc'Time: October 17th 2012, 08:41PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <update>true</update>
+</result>Time: October 17th 2012, 08:41PM IP: :  Browser:  | Array
+(
+    [username] => ac
+    [identity] => ed686009c03e14b1f35c2823632e2dda9c1a4ed1add394b8fea0d627a530c0a4
+)
+Time: October 17th 2012, 08:41PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='ac'Time: October 17th 2012, 08:41PM IP: :  Browser:  | UPDATE registrations SET updated = NOW(), identity = 'ed686009c03e14b1f35c2823632e2dda9c1a4ed1add394b8fea0d627a530c0a4' WHERE username = 'ac'Time: October 17th 2012, 08:41PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <update>true</update>
+</result>Time: October 17th 2012, 08:41PM IP: :  Browser:  | Array
+(
+    [friends] => ac
+    [time] => 1350502892601
+    [SQLiteManager_currentLangue] => 2
+)
+Time: October 17th 2012, 08:41PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='ac'Time: October 17th 2012, 08:41PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <friend>
+    <user>ac</user>
+    <identity>ed686009c03e14b1f35c2823632e2dda9c1a4ed1add394b8fea0d627a530c0a4</identity>
+  </friend>
+</result>Time: October 17th 2012, 08:44PM IP: :  Browser:  | Array
+(
+    [username] => cc
+    [identity] => 0
+    [SQLiteManager_currentLangue] => 2
+)
+Time: October 17th 2012, 08:44PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='cc'Time: October 17th 2012, 08:44PM IP: :  Browser:  | UPDATE registrations SET updated = NOW(), identity = '0' WHERE username = 'cc'Time: October 17th 2012, 08:44PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <update>true</update>
+</result>Time: October 17th 2012, 08:44PM IP: :  Browser:  | Array
+(
+    [identity] => 3e979c794c7903055ba9755be10ac8e3a5cfb0614319d9ef23f36e4b1656df1a
+    [username] => ac
+    [SQLiteManager_currentLangue] => 2
+)
+Time: October 17th 2012, 08:44PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='ac'Time: October 17th 2012, 08:44PM IP: :  Browser:  | UPDATE registrations SET updated = NOW(), identity = '3e979c794c7903055ba9755be10ac8e3a5cfb0614319d9ef23f36e4b1656df1a' WHERE username = 'ac'Time: October 17th 2012, 08:44PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <update>true</update>
+</result>Time: October 17th 2012, 08:44PM IP: :  Browser:  | Array
+(
+    [username] => acc
+    [identity] => 89dfe2aa101ec11e02f11edf1744870bccc60bcebcafdda26dddd562dde0a37f
+)
+Time: October 17th 2012, 08:44PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='acc'Time: October 17th 2012, 08:44PM IP: :  Browser:  | INSERT INTO registrations (appid, username, identity, updated) VALUES ( 0, 'acc', '89dfe2aa101ec11e02f11edf1744870bccc60bcebcafdda26dddd562dde0a37f', NOW())Time: October 17th 2012, 08:44PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <update>true</update>
+</result>Time: October 17th 2012, 08:44PM IP: :  Browser:  | Array
+(
+    [time] => 1350503064024
+    [friends] => ac
+)
+Time: October 17th 2012, 08:44PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='ac'Time: October 17th 2012, 08:44PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <friend>
+    <user>ac</user>
+    <identity>3e979c794c7903055ba9755be10ac8e3a5cfb0614319d9ef23f36e4b1656df1a</identity>
+  </friend>
+</result>Time: October 17th 2012, 08:44PM IP: :  Browser:  | Array
+(
+    [username] => acc
+    [identity] => 0
+)
+Time: October 17th 2012, 08:44PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='acc'Time: October 17th 2012, 08:44PM IP: :  Browser:  | UPDATE registrations SET updated = NOW(), identity = '0' WHERE username = 'acc'Time: October 17th 2012, 08:44PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <update>true</update>
+</result>Time: October 17th 2012, 08:44PM IP: :  Browser:  | Array
+(
+    [identity] => 0
+    [username] => ac
+    [SQLiteManager_currentLangue] => 2
+)
+Time: October 17th 2012, 08:44PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='ac'Time: October 17th 2012, 08:44PM IP: :  Browser:  | UPDATE registrations SET updated = NOW(), identity = '0' WHERE username = 'ac'Time: October 17th 2012, 08:44PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <update>true</update>
+</result>Time: October 17th 2012, 08:50PM IP: :  Browser:  | Array
+(
+    [identity] => 9ed6ca9f93721082a265044a208230d99b4907dcc8e8edaf624eecd0c93c812c
+    [username] => acc
+    [SQLiteManager_currentLangue] => 2
+)
+Time: October 17th 2012, 08:50PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='acc'Time: October 17th 2012, 08:50PM IP: :  Browser:  | UPDATE registrations SET updated = NOW(), identity = '9ed6ca9f93721082a265044a208230d99b4907dcc8e8edaf624eecd0c93c812c' WHERE username = 'acc'Time: October 17th 2012, 08:50PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <update>true</update>
+</result>Time: October 17th 2012, 08:50PM IP: :  Browser:  | Array
+(
+    [username] => ha
+    [identity] => de148f753a5fcfe6c46e93516d0d736a0cacc94a96ae5476917eb6f1c146e2f6
+)
+Time: October 17th 2012, 08:50PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='ha'Time: October 17th 2012, 08:50PM IP: :  Browser:  | INSERT INTO registrations (appid, username, identity, updated) VALUES ( 0, 'ha', 'de148f753a5fcfe6c46e93516d0d736a0cacc94a96ae5476917eb6f1c146e2f6', NOW())Time: October 17th 2012, 08:50PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <update>true</update>
+</result>Time: October 17th 2012, 08:50PM IP: :  Browser:  | Array
+(
+    [time] => 1350503412525
+    [friends] => acc
+)
+Time: October 17th 2012, 08:50PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='acc'Time: October 17th 2012, 08:50PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <friend>
+    <user>acc</user>
+    <identity>9ed6ca9f93721082a265044a208230d99b4907dcc8e8edaf624eecd0c93c812c</identity>
+  </friend>
+</result>Time: October 17th 2012, 08:52PM IP: :  Browser:  | Array
+(
+    [identity] => 6d2f49492dab52584cd293a7139198a49162798533a8747922b71cf81dc0684c
+    [username] => ha
+    [SQLiteManager_currentLangue] => 2
+)
+Time: October 17th 2012, 08:52PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='ha'Time: October 17th 2012, 08:52PM IP: :  Browser:  | UPDATE registrations SET updated = NOW(), identity = '6d2f49492dab52584cd293a7139198a49162798533a8747922b71cf81dc0684c' WHERE username = 'ha'Time: October 17th 2012, 08:52PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <update>true</update>
+</result>Time: October 17th 2012, 08:52PM IP: :  Browser:  | Array
+(
+    [username] => ha
+    [identity] => b84fa9f361082c900e4b72d7ae58975db50386719563205fe7ffd21805fe0943
+)
+Time: October 17th 2012, 08:52PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='ha'Time: October 17th 2012, 08:52PM IP: :  Browser:  | UPDATE registrations SET updated = NOW(), identity = 'b84fa9f361082c900e4b72d7ae58975db50386719563205fe7ffd21805fe0943' WHERE username = 'ha'Time: October 17th 2012, 08:52PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <update>true</update>
+</result>Time: October 17th 2012, 08:52PM IP: :  Browser:  | Array
+(
+    [username] => ha
+    [identity] => 0
+)
+Time: October 17th 2012, 08:52PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='ha'Time: October 17th 2012, 08:52PM IP: :  Browser:  | UPDATE registrations SET updated = NOW(), identity = '0' WHERE username = 'ha'Time: October 17th 2012, 08:52PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <update>true</update>
+</result>Time: October 17th 2012, 08:52PM IP: :  Browser:  | Array
+(
+    [username] => a
+    [identity] => ab67a90bb58f181f1f51e100bdba821311f075b4c30055b04636353bfda52075
+)
+Time: October 17th 2012, 08:52PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='a'Time: October 17th 2012, 08:52PM IP: :  Browser:  | UPDATE registrations SET updated = NOW(), identity = 'ab67a90bb58f181f1f51e100bdba821311f075b4c30055b04636353bfda52075' WHERE username = 'a'Time: October 17th 2012, 08:52PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <update>true</update>
+</result>Time: October 17th 2012, 08:52PM IP: :  Browser:  | Array
+(
+    [time] => 1350503545870
+    [friends] => http://localhost:8888/bin-debug/VideoChatByEddyF.html
+)
+Time: October 17th 2012, 08:52PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='http://localhost:8888/bin-debug/VideoChatByEddyF.html'Time: October 17th 2012, 08:52PM IP: :  Browser:  | Array
+(
+    [username] => a
+    [identity] => 0
+)
+Time: October 17th 2012, 08:52PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='a'Time: October 17th 2012, 08:52PM IP: :  Browser:  | UPDATE registrations SET updated = NOW(), identity = '0' WHERE username = 'a'Time: October 17th 2012, 08:52PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <update>true</update>
+</result>Time: October 17th 2012, 08:52PM IP: :  Browser:  | Array
+(
+    [username] => a
+    [identity] => 6bc9cce7b8c5bc6fb581045c91e8547e5ac252a44480d455ad1e7d1aceed0fff
+)
+Time: October 17th 2012, 08:52PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='a'Time: October 17th 2012, 08:52PM IP: :  Browser:  | UPDATE registrations SET updated = NOW(), identity = '6bc9cce7b8c5bc6fb581045c91e8547e5ac252a44480d455ad1e7d1aceed0fff' WHERE username = 'a'Time: October 17th 2012, 08:52PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <update>true</update>
+</result>Time: October 17th 2012, 08:52PM IP: :  Browser:  | Array
+(
+    [time] => 1350503549690
+    [friends] => ha
+)
+Time: October 17th 2012, 08:52PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='ha'Time: October 17th 2012, 08:52PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <friend>
+    <user>ha</user>
+    <identity>0</identity>
+  </friend>
+</result>Time: October 17th 2012, 08:52PM IP: :  Browser:  | Array
+(
+    [time] => 1350503560338
+    [friends] => ha
+)
+Time: October 17th 2012, 08:52PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='ha'Time: October 17th 2012, 08:52PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <friend>
+    <user>ha</user>
+    <identity>0</identity>
+  </friend>
+</result>Time: October 17th 2012, 08:52PM IP: :  Browser:  | Array
+(
+    [identity] => 0
+    [username] => ha
+    [SQLiteManager_currentLangue] => 2
+)
+Time: October 17th 2012, 08:52PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='ha'Time: October 17th 2012, 08:52PM IP: :  Browser:  | UPDATE registrations SET updated = NOW(), identity = '0' WHERE username = 'ha'Time: October 17th 2012, 08:52PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <update>true</update>
+</result>Time: October 17th 2012, 08:52PM IP: :  Browser:  | Array
+(
+    [identity] => ee28113ef26ee770f0474d7465dc351c372edacc2cc400fde30c4f0ef2703db1
+    [username] => gaa
+    [SQLiteManager_currentLangue] => 2
+)
+Time: October 17th 2012, 08:52PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='gaa'Time: October 17th 2012, 08:52PM IP: :  Browser:  | INSERT INTO registrations (appid, username, identity, updated) VALUES ( 0, 'gaa', 'ee28113ef26ee770f0474d7465dc351c372edacc2cc400fde30c4f0ef2703db1', NOW())Time: October 17th 2012, 08:52PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <update>true</update>
+</result>Time: October 17th 2012, 08:52PM IP: :  Browser:  | Array
+(
+    [username] => a
+    [identity] => 0
+)
+Time: October 17th 2012, 08:52PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='a'Time: October 17th 2012, 08:52PM IP: :  Browser:  | UPDATE registrations SET updated = NOW(), identity = '0' WHERE username = 'a'Time: October 17th 2012, 08:52PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <update>true</update>
+</result>Time: October 17th 2012, 08:52PM IP: :  Browser:  | Array
+(
+    [username] => aa
+    [identity] => 514976c86fc0280aba27efa1f1ff9ba71908a4e61cf9d7314b1968ca8f3486e7
+)
+Time: October 17th 2012, 08:52PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='aa'Time: October 17th 2012, 08:52PM IP: :  Browser:  | UPDATE registrations SET updated = NOW(), identity = '514976c86fc0280aba27efa1f1ff9ba71908a4e61cf9d7314b1968ca8f3486e7' WHERE username = 'aa'Time: October 17th 2012, 08:52PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <update>true</update>
+</result>Time: October 17th 2012, 08:52PM IP: :  Browser:  | Array
+(
+    [time] => 1350503578307
+    [friends] => gaa
+)
+Time: October 17th 2012, 08:52PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='gaa'Time: October 17th 2012, 08:52PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <friend>
+    <user>gaa</user>
+    <identity>ee28113ef26ee770f0474d7465dc351c372edacc2cc400fde30c4f0ef2703db1</identity>
+  </friend>
+</result>Time: October 17th 2012, 08:55PM IP: :  Browser:  | Array
+(
+    [identity] => 0e25a53b800ff0fec7ac43ee388bab764a02b241f04b694019fea090cec8ab8c
+    [username] => aa
+    [SQLiteManager_currentLangue] => 2
+)
+Time: October 17th 2012, 08:55PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='aa'Time: October 17th 2012, 08:55PM IP: :  Browser:  | UPDATE registrations SET updated = NOW(), identity = '0e25a53b800ff0fec7ac43ee388bab764a02b241f04b694019fea090cec8ab8c' WHERE username = 'aa'Time: October 17th 2012, 08:55PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <update>true</update>
+</result>Time: October 17th 2012, 08:55PM IP: :  Browser:  | Array
+(
+    [identity] => 34397462346c1cfd19fb001eb376c76bde55891c080a5d1de9c918eee3685acb
+    [username] => aaa
+)
+Time: October 17th 2012, 08:55PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='aaa'Time: October 17th 2012, 08:55PM IP: :  Browser:  | INSERT INTO registrations (appid, username, identity, updated) VALUES ( 0, 'aaa', '34397462346c1cfd19fb001eb376c76bde55891c080a5d1de9c918eee3685acb', NOW())Time: October 17th 2012, 08:55PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <update>true</update>
+</result>Time: October 17th 2012, 08:55PM IP: :  Browser:  | Array
+(
+    [friends] => aa
+    [time] => 1350503711957
+)
+Time: October 17th 2012, 08:55PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='aa'Time: October 17th 2012, 08:55PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <friend>
+    <user>aa</user>
+    <identity>0e25a53b800ff0fec7ac43ee388bab764a02b241f04b694019fea090cec8ab8c</identity>
+  </friend>
+</result>Time: October 17th 2012, 08:56PM IP: :  Browser:  | Array
+(
+    [identity] => 3d5e6e52432a4e39a5535a82845b67ed8a6ba90031e53479e70da1de09153a76
+    [username] => aaa
+    [SQLiteManager_currentLangue] => 2
+)
+Time: October 17th 2012, 08:56PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='aaa'Time: October 17th 2012, 08:56PM IP: :  Browser:  | UPDATE registrations SET updated = NOW(), identity = '3d5e6e52432a4e39a5535a82845b67ed8a6ba90031e53479e70da1de09153a76' WHERE username = 'aaa'Time: October 17th 2012, 08:56PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <update>true</update>
+</result>Time: October 17th 2012, 08:56PM IP: :  Browser:  | Array
+(
+    [identity] => 67c33c1edf62f48cf1147cc4745fc069e39c4c92779b191661f6754502a8992b
+    [username] => aaaa
+)
+Time: October 17th 2012, 08:56PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='aaaa'Time: October 17th 2012, 08:56PM IP: :  Browser:  | INSERT INTO registrations (appid, username, identity, updated) VALUES ( 0, 'aaaa', '67c33c1edf62f48cf1147cc4745fc069e39c4c92779b191661f6754502a8992b', NOW())Time: October 17th 2012, 08:56PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <update>true</update>
+</result>Time: October 17th 2012, 08:56PM IP: :  Browser:  | Array
+(
+    [friends] => aaa
+    [time] => 1350503769434
+)
+Time: October 17th 2012, 08:56PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='aaa'Time: October 17th 2012, 08:56PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <friend>
+    <user>aaa</user>
+    <identity>3d5e6e52432a4e39a5535a82845b67ed8a6ba90031e53479e70da1de09153a76</identity>
+  </friend>
+</result>Time: October 17th 2012, 09:01PM IP: :  Browser:  | Array
+(
+    [identity] => 84cb3da8eb731d5fe13a2e0e3a6175b5345dfff696c8da1ec6fb58f96e8a4063
+    [username] => aaaa
+    [SQLiteManager_currentLangue] => 2
+)
+Time: October 17th 2012, 09:01PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='aaaa'Time: October 17th 2012, 09:01PM IP: :  Browser:  | UPDATE registrations SET updated = NOW(), identity = '84cb3da8eb731d5fe13a2e0e3a6175b5345dfff696c8da1ec6fb58f96e8a4063' WHERE username = 'aaaa'Time: October 17th 2012, 09:01PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <update>true</update>
+</result>Time: October 17th 2012, 09:01PM IP: :  Browser:  | Array
+(
+    [identity] => defe5c2a62ef5e867afb192583f80039b672c238a515a45af516fee4c7578947
+    [username] => a
+)
+Time: October 17th 2012, 09:01PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='a'Time: October 17th 2012, 09:01PM IP: :  Browser:  | UPDATE registrations SET updated = NOW(), identity = 'defe5c2a62ef5e867afb192583f80039b672c238a515a45af516fee4c7578947' WHERE username = 'a'Time: October 17th 2012, 09:01PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <update>true</update>
+</result>Time: October 17th 2012, 09:01PM IP: :  Browser:  | Array
+(
+    [time] => 1350504077400
+    [friends] => a
+    [SQLiteManager_currentLangue] => 2
+)
+Time: October 17th 2012, 09:01PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='a'Time: October 17th 2012, 09:01PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <friend>
+    <user>a</user>
+    <identity>defe5c2a62ef5e867afb192583f80039b672c238a515a45af516fee4c7578947</identity>
+  </friend>
+</result>Time: October 17th 2012, 09:02PM IP: :  Browser:  | Array
+(
+    [identity] => cab7a9c36f73fcf923e7f4aea3ed3c96e6ad5e85fc80901be535ec2432fc4c0c
+    [username] => a
+    [SQLiteManager_currentLangue] => 2
+)
+Time: October 17th 2012, 09:02PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='a'Time: October 17th 2012, 09:02PM IP: :  Browser:  | UPDATE registrations SET updated = NOW(), identity = 'cab7a9c36f73fcf923e7f4aea3ed3c96e6ad5e85fc80901be535ec2432fc4c0c' WHERE username = 'a'Time: October 17th 2012, 09:02PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <update>true</update>
+</result>Time: October 17th 2012, 09:02PM IP: :  Browser:  | Array
+(
+    [identity] => 01756c43e0747e279d51f069de9d03e29f88da0b75be54008ed58cd6051e81f9
+    [username] => aa
+)
+Time: October 17th 2012, 09:02PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='aa'Time: October 17th 2012, 09:02PM IP: :  Browser:  | UPDATE registrations SET updated = NOW(), identity = '01756c43e0747e279d51f069de9d03e29f88da0b75be54008ed58cd6051e81f9' WHERE username = 'aa'Time: October 17th 2012, 09:02PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <update>true</update>
+</result>Time: October 17th 2012, 09:02PM IP: :  Browser:  | Array
+(
+    [time] => 1350504152485
+    [friends] => aa
+    [SQLiteManager_currentLangue] => 2
+)
+Time: October 17th 2012, 09:02PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='aa'Time: October 17th 2012, 09:02PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <friend>
+    <user>aa</user>
+    <identity>01756c43e0747e279d51f069de9d03e29f88da0b75be54008ed58cd6051e81f9</identity>
+  </friend>
+</result>Time: October 17th 2012, 09:03PM IP: :  Browser:  | Array
+(
+    [identity] => 0
+    [username] => a
+    [SQLiteManager_currentLangue] => 2
+)
+Time: October 17th 2012, 09:03PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='a'Time: October 17th 2012, 09:03PM IP: :  Browser:  | UPDATE registrations SET updated = NOW(), identity = '0' WHERE username = 'a'Time: October 17th 2012, 09:03PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <update>true</update>
+</result>Time: October 17th 2012, 09:03PM IP: :  Browser:  | Array
+(
+    [identity] => 0
+    [username] => aa
+)
+Time: October 17th 2012, 09:03PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='aa'Time: October 17th 2012, 09:03PM IP: :  Browser:  | UPDATE registrations SET updated = NOW(), identity = '0' WHERE username = 'aa'Time: October 17th 2012, 09:03PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <update>true</update>
+</result>Time: October 17th 2012, 09:28PM IP: :  Browser:  | Array
+(
+    [identity] => 08a01ac73bfc896f33d24949c3c6ec69461b3589d5d8eb14f30a5aab60a33531
+    [username] => aa
+)
+Time: October 17th 2012, 09:28PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='aa'Time: October 17th 2012, 09:28PM IP: :  Browser:  | UPDATE registrations SET updated = NOW(), identity = '08a01ac73bfc896f33d24949c3c6ec69461b3589d5d8eb14f30a5aab60a33531' WHERE username = 'aa'Time: October 17th 2012, 09:28PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <update>true</update>
+</result>Time: October 17th 2012, 09:28PM IP: :  Browser:  | Array
+(
+    [identity] => 7454be8961b2b1befe10729cad012f3ae613c3af4cf5fec1c555b94c84f3bb80
+    [username] => c
+)
+Time: October 17th 2012, 09:28PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='c'Time: October 17th 2012, 09:28PM IP: :  Browser:  | UPDATE registrations SET updated = NOW(), identity = '7454be8961b2b1befe10729cad012f3ae613c3af4cf5fec1c555b94c84f3bb80' WHERE username = 'c'Time: October 17th 2012, 09:28PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <update>true</update>
+</result>Time: October 17th 2012, 09:28PM IP: :  Browser:  | Array
+(
+    [time] => 1350505731654
+    [friends] => c
+)
+Time: October 17th 2012, 09:28PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='c'Time: October 17th 2012, 09:28PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <friend>
+    <user>c</user>
+    <identity>7454be8961b2b1befe10729cad012f3ae613c3af4cf5fec1c555b94c84f3bb80</identity>
+  </friend>
+</result>Time: October 17th 2012, 09:29PM IP: :  Browser:  | Array
+(
+    [identity] => 0
+    [username] => aa
+)
+Time: October 17th 2012, 09:29PM IP: :  Browser:  | SELECT id, appid, username, identity, updated FROM registrations WHERE username='aa'Time: October 17th 2012, 09:29PM IP: :  Browser:  | UPDATE registrations SET updated = NOW(), identity = '0' WHERE username = 'aa'Time: October 17th 2012, 09:29PM IP: :  Browser:  | <?xml version='1.0' encoding='utf-8'?>
+<result>
+  <update>true</update>
+</result>

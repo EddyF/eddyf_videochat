@@ -15,7 +15,7 @@ The Video Component enables peer assisted networking using the Real Time Media F
 * go to http://labs.adobe.com/technologies/cirrus/  and sign up for a developer key
 * Specify your developer key in DeveloperKey constant in VideoChatByEddyF.mxml
 * Specify the URL of your web service in WebServiceUrl constant in VideoChatByEddyF.mxml
-* Create the registration table 
+* Create a database and the registration table 
 
 CREATE TABLE IF NOT EXISTS `registrations` (
   `id` BIGINT(20) NOT NULL AUTO_INCREMENT,
@@ -27,4 +27,5 @@ CREATE TABLE IF NOT EXISTS `registrations` (
   KEY `updated` (`updated`)
 ) ENGINE=MyISAM  DEFAULT CHARSET=latin1;
 
+* edit the database details under bin-debug/reg.php
 * Run the application from two different browsers. 
